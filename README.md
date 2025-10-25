@@ -253,7 +253,51 @@ These make your content **modern and valuable** for clients:
 ✅ Strong security culture across teams
 
 ---
+---
+---
+
+# 📘 **ROLE-BASED SECURITY AWARENESS & TRAINING MODULE**
+
+*(Client-Ready Detailed Content + Delivery Guide)*
+
+---
+
+## 🏆 **Hero Section (For PPT Slide 1–2)**
+
+> “Every role has different risks — from HR handling personal data to developers pushing code into production.”
+> “Role-based training builds true cyber resilience — teaching each employee what *their* biggest threats look like.”
+
+**Objective:**
+Equip employees with **role-specific security awareness**, helping them safeguard data, systems, and operations according to their job responsibilities.
+
+---
+
+## 🔹 **Role-Based Training Chapters Overview**
+
+| Chapter                                        | Role Focus                   | Key Training Objective                                          |
+| ---------------------------------------------- | ---------------------------- | --------------------------------------------------------------- |
+| **1. Executive & Leadership Awareness**        | C-Level, Managers            | Strategic risk awareness, data protection, CEO fraud prevention |
+| **2. HR & Recruitment Team Security**          | HR personnel                 | Data privacy, candidate info safety, social engineering defense |
+| **3. Finance & Accounting Security**           | Finance, Payroll             | Invoice fraud, phishing, payment diversion scams                |
+| **4. IT & System Admin Security**              | IT, Support staff            | Access control, patching, privilege misuse prevention           |
+| **5. Developer & Engineering Security**        | Developers, DevOps           | Secure coding, secret management, vulnerability prevention      |
+| **6. Sales & Marketing Security**              | Sales reps, marketing teams  | CRM data protection, social media safety, phishing              |
+| **7. Customer Support & Frontline Staff**      | Call center, support         | Data disclosure prevention, verification process                |
+| **8. Remote & Hybrid Workforce Security**      | WFH & hybrid employees       | Device hardening, VPN use, remote access safety                 |
+| **9. Third-Party & Vendor Security Awareness** | Procurement, vendor managers | Supply chain threats, vendor risk awareness                     |
+| **10. Reporting & Reinforcement Program**      | For all                      | Simulations, dashboards, and continuous improvement             |
+
+---
+
+Each chapter will follow this detailed structure:
+
+1. 🧠 **Learning Objectives**
+2. 📚 **Slide / PDF Content (Key Concepts)**
+3. ⚙️ **Delivery / Activities (Practical Demos or Scenarios)**
+4. 📊 **Outcome (Behavioral or Measurable Change)**
+5. 🧩 **MCQs or Assessments** (for that role)
+6. ✅ **Client Implementation Tips / Tools**
+
+---
 
 
-
-👉 Should I create the **PowerPoint version** of this module next?

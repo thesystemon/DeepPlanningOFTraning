@@ -1,5 +1,3 @@
-Of course. Here are 50 original and fake email pairs, including the previous 20, using character substitution and other deceptive techniques perfect for security awareness training.
-
 ***
 
 ### **50 Original vs. Fake Email Pairs for Security Training**

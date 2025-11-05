@@ -284,22 +284,35 @@ D. Delete without checking
 
 ---
 
-## ✅ **Chapter 1 — Introduction to Phishing Threats Checklist**
-
-| #  | Task                                                         | Status |
-| -- | ------------------------------------------------------------ | ------ |
-| 1  | Employees understand what phishing is                        | ☐      |
-| 2  | Employees can identify phishing vectors (email/SMS/call/USB) | ☐      |
-| 3  | Red flags of phishing are known and recognized               | ☐      |
-| 4  | Reporting procedure is understood                            | ☐      |
-| 5  | Employees avoid interacting with suspicious links/files      | ☐      |
-| 6  | Mock simulations have been conducted                         | ☐      |
-| 7  | Industry-specific phishing lures have been covered           | ☐      |
-| 8  | Employees participated in awareness quiz                     | ☐      |
-| 9  | Red flag posters shared internally                           | ☐      |
-| 10 | Lessons integrated into ongoing awareness program            | ☐      |
+Perfect — here’s a **practical, trainer-ready email-check checklist** with **18 clear items** your staff can use every time they get a suspicious email. Put this on a handout or poster (one line per checkbox) for easy use.
 
 ---
+
+## 🔍 Email Safety Checklist — 18 Quick Checks
+
+(Use this every time you receive an unexpected or unusual email)
+
+1. ☐ **Who is the sender?** — Check the full email address (not just the display name).
+2. ☐ **Is the domain correct?** — Look for small typos or swapped characters (micros0ft vs microsoft).
+3. ☐ **Does the reply-to match the sender?** — Mismatched reply-to is a red flag.
+4. ☐ **Is there an external/unknown tag?** — Many systems add “[External]” — treat those with caution.
+5. ☐ **Did you expect this email?** — If it’s unexpected, verify before acting.
+6. ☐ **What’s the tone?** — Urgency, threats, or too-good-to-be-true offers are classic tricks.
+7. ☐ **Are there grammar or branding errors?** — Typos, odd phrasing, outdated logos signal phishing.
+8. ☐ **Hover over links (don’t click)** — Confirm the actual URL matches the claimed site and is not shortened.
+9. ☐ **Check attachments before opening** — Unexpected .exe, .zip, .scr, or Office files with macros are dangerous.
+10. ☐ **Is it asking for credentials or OTPs?** — Never enter passwords or OTPs into sites linked from email.
+11. ☐ **Is it asking to change payment or bank details?** — Require dual approval and verify via a known phone number.
+12. ☐ **Are there unusual send times or IP/location hints?** — Strange hours or foreign-sounding timestamps can indicate compromise.
+13. ☐ **Does the greeting match your relationship?** — Generic “Dear user” vs personalised salutations can be telling.
+14. ☐ **Check for unusual attachments or links to cloud docs** — If a cloud doc is used, ensure it’s from a trusted domain and request access via the app, not an email link.
+15. ☐ **Look for unexpected BCC or mass recipients** — Could be part of a broader campaign.
+16. ☐ **Verify with another channel** — Call or Teams message the sender using a known number/address (not the ones in the email).
+17. ☐ **Inspect message headers if still unsure** — Forward full headers to Security/SOC for analysis.
+18. ☐ **If suspicious — don’t click: report it** — Use “Report Phishing” in Outlook/Gmail or forward to [security@company.com](mailto:security@company.com) and then delete.
+
+---
+
 
 ## 🎯 **Outcomes**
 
